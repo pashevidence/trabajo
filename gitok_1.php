@@ -1,5 +1,5 @@
 <?php
-    echo 'CHOTO!!!???';
+    echo 'CHOTO!!!???OPAAAAAAAAAA';
    //$so = PDO("");
 
 
