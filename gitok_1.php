@@ -54,9 +54,9 @@
   
   var_dump($text);
 
-    echo 'CHOTO!!!???OPAAAAAAAAAA';
-   //$so = PDO("");
 
 
 
 ?>
+
+<h1>ETO NOVO!!!</h1>
