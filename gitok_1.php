@@ -54,9 +54,5 @@
   
   var_dump($text);
 
-    echo 'CHOTO!!!???OPAAAAAAAAAA';
-   //$so = PDO("");
-
-
 
 ?>
